@@ -1,0 +1,78 @@
+#One{
+    width: 50%;
+    height: 450px;
+    margin-left:310px ;
+    background-color: rgb(231, 226, 226);;
+    
+}
+
+#two{
+    width: 89%;
+    /* height: 100; */
+    margin-left: 36px;
+    border-left-color: black;
+    border-left-width: 10px;
+    border-right-color: black;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-left-style: solid;
+    padding-left: 20px;
+}
+
+
+#four{
+
+    width: 100px;
+    height: 100px;
+    /* padding-left: 30px; */
+    border-radius: 100px;
+}
+
+#Five{
+    list-style-image: url(./images/phone-call.png);
+    width: 130px;
+    height:20px;
+    padding-right: 20px;
+    margin-bottom: 100px;
+}
+
+#Film{
+
+    list-style-image: url(./images/mail.png);
+    width: 130px;
+    height:20px;
+    padding-right: 20px;
+    line-height: 0px;
+
+}
+
+
+#film1{
+
+    list-style-image: url(./images/global.png);
+    width: 130px;
+    height:20px;
+    padding-right: 20px;
+    line-height: 30px;
+
+}
+
+
+#film2{
+
+    list-style-image: url(./images/location.png);
+    width: 130px;
+    height:20px;
+    padding-right: 20px;
+    line-height: 30px;
+
+}
+
+#eight{
+    margin-bottom: 100px;
+    padding: 0px;
+}
+
+
+
+
